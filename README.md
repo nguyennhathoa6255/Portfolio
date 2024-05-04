@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/5b010aacc5d452cd0ede1141a0f32b36fab34303/image/stockprediction.png"> **[Vietnamese Stock Prediction](https://github.com/nguyennhathoa6255/Vietnamese-Stock-Prediction)**
+<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/predict.png"> **[Vietnamese Stock Prediction](https://github.com/nguyennhathoa6255/Vietnamese-Stock-Prediction)**
 
 The project aims to predict the stock prices in Vietnam using the Prophet algorithm with data from the 'Vnstock' library and deploying it on Streamlit. [App](https://vn-stock-prediction.streamlit.app/)  
 <b>Tools Used:</b> Pandas, Plotly, Vnstock, Streamlit.
