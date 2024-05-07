@@ -44,7 +44,7 @@ The Bike Stores project aims to determine the revenue growth trend over the year
     - [Linear Regression](https://github.com/nguyennhathoa6255/Statistical/blob/master/Linear%20Regression.ipynb) : In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent.
 
 - ### Competitions:
-    - [Trading Algorithm - ATTACKER 2024](https://github.com/jsyizdabet/Attacker-2024") : This repository contains the code for the trading algorithm building competition that my teammates and I did together.
+    - [Trading Algorithm - ATTACKER 2024](https://github.com/jsyizdabet/Attacker-2024) : This repository contains the code for the trading algorithm building competition that my teammates and I did together.
     - [The HUB Innovation and Creativity](https://github.com/nguyennhathoa6255/Vietnamese-Stock-Prediction) : This repository contains the code for a startup idea contest (stock prediction) that my teammates and I did together.
 
 <br />
