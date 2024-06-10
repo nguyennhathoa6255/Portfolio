@@ -44,13 +44,14 @@ The Bike Stores project aims to determine the revenue growth trend over the year
     - [Linear Regression](https://github.com/nguyennhathoa6255/Statistical/blob/master/Linear%20Regression.ipynb) : In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent.
 
 - ### Competitions:
-    - [Trading Algorithm - ATTACKER 2024](https://github.com/jsyizdabet/Attacker-2024) : This repository contains the code for the trading algorithm building competition that my teammates and I did together.
-    - [The HUB Innovation and Creativity](https://github.com/nguyennhathoa6255/Vietnamese-Stock-Prediction) : This repository contains the code for a startup idea contest (stock prediction) that my teammates and I did together.
+    - [The Data Analytics 2024](https://github.com/nguyennhathoa6255/The-Data-Analytics-Competition-2024) : This repository contains code for a data analytics competition on the topic of building machine learning models to predict users' bank credit. [Deploy](https://copilot-team.streamlit.app/)
+    - [Trading Algorithm - ATTACKER 2024](https://github.com/jsyizdabet/Attacker-2024) : This repository contains the code for the trading algorithm building competition that my teammates and I did together. [Deploy](https://stack-overflow-attacker2024.streamlit.app/)
+    - [The HUB Innovation and Creativity](https://github.com/nguyennhathoa6255/Vietnamese-Stock-Prediction) : This repository contains the code for a startup idea contest (stock prediction) that my teammates and I did together. [Deploy](https://vn-stock-prediction.streamlit.app/)
 
 <br />
 
 ## Core Competencies
 - **Languages**: Python, R, SQL
 - **Methodologies**: Machine Learning, Time Series Analysis, Statistics, Data Structures & Algorithms
-- **Tools**: Microsoft SQL Server, Git, MS Excel, Tableau, Docker
+- **Tools**: Microsoft SQL Server, Git, MS Excel, Tableau
 - **Other Tools**: Adobe Photoshop, Adobe Premiere Pro, Figma
