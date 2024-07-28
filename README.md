@@ -1,5 +1,5 @@
 # Portfolio - Hoa Nguyen Nhat
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. This portfolio also contains my achievements and skills.
+This portfolio showcases my Data Science and Data Analysis projects from academic, self-learning, and hobby pursuits, along with my achievements and skills.
 
 - **Email**: [nguyennhathoa6255@gmail.com](nguyennhathoa6255@gmail.com)
 - **LinkedIn**: [linkedin.com/nguyennhathoa](https://www.linkedin.com/in/nguyennhathoa/)
@@ -78,6 +78,6 @@ In this project, I will focus on cleaning up and preparing messy FIFA 21 data fo
 
 ## Core Competencies
 - **Languages**: Python, R, SQL
-- **Methodologies**: Data Analysis, Machine Learning, Time Series Analysis, Statistics, Data Structures & Algorithms
+- **Methodologies**: Data Analysis, Machine Learning, Time Series Analysis, Statistics, Data Structures & Algorithms, NLP
 - **Tools**: MySQL, Microsoft SQL Server, Git, MS Excel, Tableau, LangChain, Docker
 - **Other Tools**: Adobe Photoshop, Adobe Premiere Pro, Figma
