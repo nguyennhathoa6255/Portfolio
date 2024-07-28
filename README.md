@@ -8,6 +8,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
+<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/home_auth.png"> **[MySQL Chatbot With Gemini-Pro](https://github.com/nguyennhathoa6255/Chatbot-MySQL-Gemini)**
+
+The main purpose of the Django application is to assess the suitability between resumes and job descriptions. [Chatbot](https://django-recruitment.onrender.com/)  
+<b>Tools Used:</b> Python, Django, Langchain, Javascript, Bootstrap, Render
+
+#
+
 <img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/chatbot.png"> **[MySQL Chatbot With Gemini-Pro](https://github.com/nguyennhathoa6255/Chatbot-MySQL-Gemini)**
 
 This project develops a chatbot that interprets natural language queries, generates SQL queries, and fetches results from a SQL database in an intuitive, user-friendly way. It leverages the Gemini-Pro model and integrates with the Streamlit GUI for an enhanced interactive experience. [Chatbot](https://chatbot-mysql-gemini.streamlit.app/?embed_options=light_theme)  
