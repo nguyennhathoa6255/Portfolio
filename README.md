@@ -10,7 +10,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/home_auth.png"> **[MySQL Chatbot With Gemini-Pro](https://github.com/nguyennhathoa6255/Chatbot-MySQL-Gemini)**
 
-The main purpose of the Django application is to assess the suitability between resumes and job descriptions. [Chatbot](https://django-recruitment.onrender.com/)  
+The main purpose of the Django application is to assess the suitability between resumes and job descriptions. 
+[Web App](https://django-recruitment.onrender.com/)  
 <b>Tools Used:</b> Python, Django, Langchain, Javascript, Bootstrap, Render
 
 #
