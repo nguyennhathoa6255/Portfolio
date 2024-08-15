@@ -8,7 +8,7 @@ This portfolio showcases my Data Science and Data Analysis projects from academi
 
 ## Projects
 
-<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/home_auth.png"> **[MySQL Chatbot With Gemini-Pro](https://github.com/nguyennhathoa6255/Chatbot-MySQL-Gemini)**
+<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/home_auth.png"> **[Recruitment Platform Django](https://github.com/nguyennhathoa6255/Chatbot-MySQL-Gemini)**
 
 The main purpose of the Django application is to assess the suitability between resumes and job descriptions. 
 [Web App](https://django-recruitment.onrender.com/)  
