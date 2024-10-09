@@ -3,44 +3,51 @@ This portfolio showcases my Data Science and Data Analysis projects from academi
 
 - **Email**: [nguyennhathoa6255@gmail.com](nguyennhathoa6255@gmail.com)
 - **LinkedIn**: [linkedin.com/nguyennhathoa](https://www.linkedin.com/in/nguyennhathoa/)
-- **Portfolio**: [https://nguyennhathoa6255.github.io/](https://nguyennhathoa6255.github.io/)
+- **Portfolio**: [https://nguyennhathoa6255.github.io/](https://nguyennhathoa6255.github.io/projects/)
 
 
 ## Projects
 
-<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/home_auth.png"> **[Recruitment Platform Django](https://github.com/nguyennhathoa6255/django-recruitment)**
+<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/user.png"> **[User Clustering](https://github.com/nguyennhathoa6255/user-clustering)**
+
+Analyze social media user behavior to identify clusters and propose targeted strategies, improving engagement and optimizing business outcomes. 
+[Web App]([https://django-recruitment.onrender.com/](https://eureka-user-clustering.streamlit.app/?embed_options=light_theme))  
+<b>Tools Used:</b> Python (Pandas, Numpy, Scikit-learn, Plotly), Streamlit, HuggingFace.
+
+#
+
+<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/ab.png"> **[Game A/B Testing](https://github.com/nguyennhathoa6255/ab-testing)**
+
+Using A/B testing, the analysis of the mobile puzzle game Cookie Cats shows that keeping the first gate at level 30 improves 7-day retention compared to moving it to level 40. 
+<b>Tools Used:</b> Python (Pandas, Matplotlib).
+
+#
+<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/recruit.png"> **[Recruitment Platform Django](https://github.com/nguyennhathoa6255/django-recruitment)**
 
 The main purpose of the Django application is to assess the suitability between resumes and job descriptions. 
 [Web App](https://django-recruitment.onrender.com/)  
-<b>Tools Used:</b> Python, Django, Langchain, Javascript, Bootstrap, Render
+<b>Tools Used:</b> Python, Django, Langchain, Javascript, Bootstrap, Render.
 
 #
 
-<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/chatbot.png"> **[MySQL Chatbot With Gemini-Pro](https://github.com/nguyennhathoa6255/Chatbot-MySQL-Gemini)**
+<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/chat.png"> **[MySQL Chatbot](https://github.com/nguyennhathoa6255/Chatbot-MySQL-Gemini)**
 
 This project develops a chatbot that interprets natural language queries, generates SQL queries, and fetches results from a SQL database in an intuitive, user-friendly way. It leverages the Gemini-Pro model and integrates with the Streamlit GUI for an enhanced interactive experience. [Chatbot](https://chatbot-mysql-gemini.streamlit.app/?embed_options=light_theme)  
-<b>Tools Used:</b> MySQL, LangChain, Streamlit, Railway
+<b>Tools Used:</b> MySQL, LangChain, Streamlit, Railway.
 
 #
 
-<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/chungket.png"> **[Trading Algorithm Building Competition](https://github.com/nguyennhathoa6255/Trading-Algorithm-Competition-Attacker-2024)**
-
-Build trading algorithms based on strategies to increase real investment profits. Win the first prize with the best algorithm and highest profit. [Algorithm Deploy](https://stack-overflow-attacker2024.streamlit.app/)  
-<b>Tools Used:</b> Excel, Python (Pandas, Numpy, Plotly, Vnstock, Streamlit)
-
-#
-
-<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/predict.png"> **[Vietnamese Stock Prediction](https://github.com/nguyennhathoa6255/Vietnamese-Stock-Prediction)**
+<img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/stock.png"> **[Vietnamese Stock Prediction](https://github.com/nguyennhathoa6255/Vietnamese-Stock-Prediction)**
 
 The project aims to predict the stock prices in Vietnam using the Prophet algorithm with data from the 'Vnstock' library and deploying it on Streamlit. [App](https://vn-stock-prediction.streamlit.app/)  
-<b>Tools Used:</b> Excel, Python (Pandas, Plotly, Vnstock, Streamlit), Prophet
+<b>Tools Used:</b> Excel, Python (Pandas, Plotly, Vnstock, Streamlit), Prophet.
 
 #
 
 <img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/5b010aacc5d452cd0ede1141a0f32b36fab34303/image/netflix.jpg"> **[Data Analysis (Netflix Userbase Dataset)](https://github.com/nguyennhathoa6255/Data-Analysis-Netflix-Userbase-Dataset)**
  
 The project aims to gather insights into user behavior and preferences, informing strategies for an improved Netflix experience, including content recommendation and pricing optimization.  
-<b>Tools Used:</b> Python (Pandas, Plotly, Matplotlib, Seaborn), Jupyter Notebook
+<b>Tools Used:</b> Python (Pandas, Plotly, Matplotlib, Seaborn), Jupyter Notebook).
 
 #
 
