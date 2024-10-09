@@ -11,7 +11,7 @@ This portfolio showcases my Data Science and Data Analysis projects from academi
 <img align="left" width="285" height="150" src="https://github.com/nguyennhathoa6255/Portfolio/blob/main/image/user.png"> **[User Clustering](https://github.com/nguyennhathoa6255/user-clustering)**
 
 Analyze social media user behavior to identify clusters and propose targeted strategies, improving engagement and optimizing business outcomes. 
-[Web App]([https://django-recruitment.onrender.com/](https://eureka-user-clustering.streamlit.app/?embed_options=light_theme))  
+[Web App]([https://django-recruitment.onrender.com/](https://eureka-user-clustering.streamlit.app/?embed_options=light_theme)
 <b>Tools Used:</b> Python (Pandas, Numpy, Scikit-learn, Plotly), Streamlit, HuggingFace.
 
 #
